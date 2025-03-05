@@ -1,0 +1,8 @@
+streamlit
+transformers
+Pillow
+torch
+langchain-community
+pyttsx3
+requests
+regex
